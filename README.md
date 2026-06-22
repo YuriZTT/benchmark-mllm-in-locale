@@ -19,7 +19,7 @@ Il software fornisce un'interfaccia grafica intuitiva e asincrona per interrogar
 
 ## 🧠 Modelli Supportati
 L'applicativo è configurato per interfacciarsi con i seguenti modelli visivo-linguistici:
-* **[Llama 3.2 Vision](https://ollama.com/library/llama3.2-vision):** Modello multimodale ad alte prestazioni di Meta. *Nota: richiede un quantitativo di VRAM superiore a 8 GB per un'esecuzione stabile.*
+* **[Llama 3.2 Vision](https://ollama.com/library/llama3.2-vision):** Modello multimodale ad alte prestazioni di Meta.
 * **[MiniCPM-V](https://ollama.com/library/minicpm-v):** Ottime prestazioni semantiche, ragionamento spaziale e capacità di OCR avanzato in the wild.
 * **[LLaVA](https://ollama.com/library/llava):** Modello compatto con latenza ridotta.
 * **[BakLLaVA](https://ollama.com/library/bakllava):** Alternativa architetturale per task generici.
@@ -35,4 +35,4 @@ Per compilare ed eseguire il progetto, è necessario disporre di:
 ## 🚀 Compilazione e Avvio
 1. Clona il repository in locale:
    ```bash
-   git clone [https://github.com/TUO-USERNAME/NOME-REPO.git](https://github.com/TUO-USERNAME/NOME-REPO.git)
+   git clone [https://github.com/YuriZTT/benchmark-mllm-in-locale.git](https://github.com/YuriZTT/benchmark-mllm-in-locale.git)
