@@ -36,6 +36,7 @@ Per compilare ed eseguire il progetto, è necessario disporre di:
 1. Clona il repository in locale:
    ```bash
    git clone https://github.com/YuriZTT/benchmark-mllm-in-locale.git
+   ```
 2. Apri il file di configurazione del progetto (.pro) all'interno di Qt Creator.
 3. Configura il progetto selezionando il kit desktop appropriato.
 4. Compila ed avvia l'applicazione (tramite l'interfaccia di Qt Creator o usando Ctrl+R / Cmd+R).
