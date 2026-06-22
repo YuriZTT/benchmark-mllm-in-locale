@@ -37,7 +37,13 @@ Per compilare ed eseguire il progetto, è necessario disporre di:
    ```bash
    git clone https://github.com/YuriZTT/benchmark-mllm-in-locale.git
 2. Apri il file di configurazione del progetto (.pro) all'interno di Qt Creator.
-
 3. Configura il progetto selezionando il kit desktop appropriato.
-
 4. Compila ed avvia l'applicazione (tramite l'interfaccia di Qt Creator o usando Ctrl+R / Cmd+R).
+
+## 🎓 Contesto Accademico
+* **Progetto di Tesi**: Progettazione e sviluppo di un'applicazione per il benchmarking locale di Multimodal Large Language Models
+* **Autore**: Yuri Zotti
+* **Università**: Università degli Studi di Milano-Bicocca
+* **Corso di Laurea**: Informatica (A.A. 2025-2026)
+* **Relatore**: Prof. Gianluigi Ciocca
+* **Co-relatore**: Prof. Luigi Celona
